@@ -1,0 +1,714 @@
+Student ID,Program,Student Gender,Experience Level,Student Siblings,Student Family,Financial Background,School Dormitory,School of Origin,Student Social Influence,Favourite Study Element,Admitted in School
+1,Sorcery School,male,22.0,1,0,7.25,,Mystic Academy,18,Fire,0
+2,Magi Academy,female,38.0,1,0,71.2833,Cottage Chamber,Eldertree Enclave,7,Fire,1
+3,Sorcery School,female,26.0,0,0,7.925,,Mystic Academy,12,Air,1
+5,Sorcery School,male,35.0,0,0,8.05,,Mystic Academy,12,Air,0
+6,Sorcery School,male,,0,0,8.4583,,Arcan Institute ,11,Earth,0
+7,Magi Academy,male,54.0,0,0,51.8625,Mystical Chamber,Mystic Academy,13,Air,0
+8,Sorcery School,male,2.0,3,1,21.075,,Mystic Academy,1,Fire,0
+9,Sorcery School,female,27.0,0,2,11.1333,,Mystic Academy,22,Earth,1
+10,Witchcraft Institute,female,14.0,1,0,30.0708,,Eldertree Enclave,4,Fire,1
+11,Sorcery School,female,4.0,1,1,16.7,Grand Chambers,Mystic Academy,7,Earth,1
+12,Magi Academy,female,58.0,0,0,26.55,Cottage Chamber,Mystic Academy,8,Air,1
+13,Sorcery School,male,20.0,0,0,8.05,,Mystic Academy,3,Air,0
+14,Sorcery School,male,39.0,1,5,31.275,,Mystic Academy,21,Water,0
+15,Sorcery School,female,14.0,0,0,7.8542,,Mystic Academy,18,Earth,0
+16,Witchcraft Institute,female,55.0,0,0,16.0,,Mystic Academy,6,Fire,1
+18,Witchcraft Institute,male,,0,0,13.0,,Mystic Academy,24,Fire,1
+19,Sorcery School,female,31.0,1,0,18.0,,Mystic Academy,9,Air,0
+22,Witchcraft Institute,male,34.0,0,0,13.0,Dragon Room,Mystic Academy,21,Water,1
+24,Magi Academy,male,28.0,0,0,35.5,Tangerine Rooms,Mystic Academy,3,Air,1
+25,Sorcery School,female,8.0,3,1,21.075,,Mystic Academy,20,Earth,0
+27,Sorcery School,male,,0,0,7.225,,Eldertree Enclave,12,Air,0
+28,Magi Academy,male,19.0,3,2,263.0,Cottage Chamber,Mystic Academy,5,Fire,0
+29,Sorcery School,female,,0,0,7.8792,,Arcan Institute ,6,Fire,1
+30,Sorcery School,male,,0,0,7.8958,,Mystic Academy,7,Fire,0
+31,Magi Academy,male,40.0,0,0,27.7208,,Eldertree Enclave,20,Earth,0
+33,Sorcery School,female,,0,0,7.75,,Arcan Institute ,6,Air,1
+34,Witchcraft Institute,male,66.0,0,0,10.5,,Mystic Academy,20,Fire,0
+35,Magi Academy,male,28.0,1,0,82.1708,,Eldertree Enclave,4,Fire,0
+36,Magi Academy,male,42.0,1,0,52.0,,Mystic Academy,5,Water,0
+37,Sorcery School,male,,0,0,7.2292,,Eldertree Enclave,18,Fire,1
+38,Sorcery School,male,21.0,0,0,8.05,,Mystic Academy,7,Air,0
+39,Sorcery School,female,18.0,2,0,18.0,,Mystic Academy,4,Water,0
+40,Sorcery School,female,14.0,1,0,11.2417,,Eldertree Enclave,12,Earth,1
+41,Sorcery School,female,40.0,1,0,9.475,,Mystic Academy,21,Earth,0
+42,Witchcraft Institute,female,27.0,1,0,21.0,,Mystic Academy,12,Water,0
+43,Sorcery School,male,,0,0,7.8958,,Eldertree Enclave,21,Fire,0
+44,Witchcraft Institute,female,3.0,1,2,41.5792,,Eldertree Enclave,10,Air,1
+46,Sorcery School,male,,0,0,8.05,,Mystic Academy,7,Air,0
+47,Sorcery School,male,,1,0,15.5,,Arcan Institute ,5,Water,0
+49,Sorcery School,male,,2,0,21.6792,,Eldertree Enclave,20,Fire,0
+50,Sorcery School,female,18.0,1,0,17.8,,Mystic Academy,12,Air,0
+51,Sorcery School,male,7.0,4,1,39.6875,,Mystic Academy,12,Fire,0
+52,Sorcery School,male,21.0,0,0,7.8,,Mystic Academy,15,Fire,0
+53,Magi Academy,female,49.0,1,0,76.7292,Dragon Room,Eldertree Enclave,22,Earth,1
+54,Witchcraft Institute,female,29.0,1,0,26.0,,Mystic Academy,21,Fire,1
+55,Magi Academy,male,65.0,0,1,61.9792,Mystical Chamber,Eldertree Enclave,22,Water,0
+57,Witchcraft Institute,female,21.0,0,0,10.5,,Mystic Academy,3,Fire,1
+59,Witchcraft Institute,female,5.0,1,2,27.75,,Mystic Academy,10,Earth,1
+60,Sorcery School,male,11.0,5,2,46.9,,Mystic Academy,19,Water,0
+61,Sorcery School,male,22.0,0,0,7.2292,,Eldertree Enclave,23,Water,0
+63,Magi Academy,male,45.0,1,0,83.475,Cottage Chamber,Mystic Academy,1,Earth,0
+64,Sorcery School,male,4.0,3,2,27.9,,Mystic Academy,21,Air,0
+65,Magi Academy,male,,0,0,27.7208,,Eldertree Enclave,1,Air,0
+66,Sorcery School,male,,1,1,15.2458,,Eldertree Enclave,21,Water,1
+67,Witchcraft Institute,female,29.0,0,0,10.5,Python Quarters,Mystic Academy,12,Earth,1
+68,Sorcery School,male,19.0,0,0,8.1583,,Mystic Academy,21,Fire,0
+70,Sorcery School,male,26.0,2,0,8.6625,,Mystic Academy,24,Water,0
+71,Witchcraft Institute,male,32.0,0,0,10.5,,Mystic Academy,1,Fire,0
+72,Sorcery School,female,16.0,5,2,46.9,,Mystic Academy,7,Air,0
+73,Witchcraft Institute,male,21.0,0,0,73.5,,Mystic Academy,10,Fire,0
+74,Sorcery School,male,26.0,1,0,14.4542,,Eldertree Enclave,19,Water,0
+76,Sorcery School,male,25.0,0,0,7.65,Python Quarters,Mystic Academy,15,Water,0
+77,Sorcery School,male,,0,0,7.8958,,Mystic Academy,3,Earth,0
+78,Sorcery School,male,,0,0,8.05,,Mystic Academy,8,Water,0
+79,Witchcraft Institute,male,0.83,0,2,29.0,,Mystic Academy,12,Earth,1
+80,Sorcery School,female,30.0,0,0,12.475,,Mystic Academy,15,Earth,1
+81,Sorcery School,male,22.0,0,0,9.0,,Mystic Academy,13,Earth,0
+82,Sorcery School,male,29.0,0,0,9.5,,Mystic Academy,15,Water,1
+83,Sorcery School,female,,0,0,7.7875,,Arcan Institute ,5,Water,1
+84,Magi Academy,male,28.0,0,0,47.1,,Mystic Academy,10,Earth,0
+86,Sorcery School,female,33.0,3,0,15.85,,Mystic Academy,15,Earth,1
+87,Sorcery School,male,16.0,1,3,34.375,,Mystic Academy,1,Earth,0
+89,Magi Academy,female,23.0,3,2,263.0,Cottage Chamber,Mystic Academy,21,Air,1
+91,Sorcery School,male,29.0,0,0,8.05,,Mystic Academy,24,Water,0
+92,Sorcery School,male,20.0,0,0,7.8542,,Mystic Academy,8,Earth,0
+93,Magi Academy,male,46.0,1,0,61.175,Mystical Chamber,Mystic Academy,13,Fire,0
+94,Sorcery School,male,26.0,1,2,20.575,,Mystic Academy,13,Earth,0
+95,Sorcery School,male,59.0,0,0,7.25,,Mystic Academy,4,Fire,0
+96,Sorcery School,male,,0,0,8.05,,Mystic Academy,6,Earth,0
+97,Magi Academy,male,71.0,0,0,34.6542,Tangerine Rooms,Eldertree Enclave,13,Air,0
+98,Magi Academy,male,23.0,0,1,63.3583,Dragon Room,Eldertree Enclave,23,Air,1
+99,Witchcraft Institute,female,34.0,0,1,23.0,,Mystic Academy,11,Water,1
+101,Sorcery School,female,28.0,0,0,7.8958,,Mystic Academy,19,Water,0
+102,Sorcery School,male,,0,0,7.8958,,Mystic Academy,5,Air,0
+104,Sorcery School,male,33.0,0,0,8.6542,,Mystic Academy,18,Water,0
+105,Sorcery School,male,37.0,2,0,7.925,,Mystic Academy,9,Earth,0
+106,Sorcery School,male,28.0,0,0,7.8958,,Mystic Academy,16,Earth,0
+107,Sorcery School,female,21.0,0,0,7.65,,Mystic Academy,2,Earth,1
+108,Sorcery School,male,,0,0,7.775,,Mystic Academy,15,Fire,1
+109,Sorcery School,male,38.0,0,0,7.8958,,Mystic Academy,23,Air,0
+111,Magi Academy,male,47.0,0,0,52.0,Cottage Chamber,Mystic Academy,13,Air,0
+112,Sorcery School,female,14.5,1,0,14.4542,,Eldertree Enclave,4,Air,0
+113,Sorcery School,male,22.0,0,0,8.05,,Mystic Academy,9,Air,0
+114,Sorcery School,female,20.0,1,0,9.825,,Mystic Academy,8,Water,0
+116,Sorcery School,male,21.0,0,0,7.925,,Mystic Academy,17,Earth,0
+118,Witchcraft Institute,male,29.0,1,0,21.0,,Mystic Academy,8,Air,0
+119,Magi Academy,male,24.0,0,1,247.5208,Mystical Chamber,Eldertree Enclave,24,Fire,0
+120,Sorcery School,female,2.0,4,2,31.275,,Mystic Academy,24,Air,0
+122,Sorcery School,male,,0,0,8.05,,Mystic Academy,21,Fire,0
+123,Witchcraft Institute,male,32.5,1,0,30.0708,,Eldertree Enclave,19,Fire,0
+124,Witchcraft Institute,female,32.5,0,0,13.0,Mystical Chamber,Mystic Academy,20,Earth,1
+125,Magi Academy,male,54.0,0,1,77.2875,Dragon Room,Mystic Academy,10,Air,0
+126,Sorcery School,male,12.0,1,0,11.2417,,Eldertree Enclave,24,Fire,1
+127,Sorcery School,male,,0,0,7.75,,Arcan Institute ,7,Fire,0
+128,Sorcery School,male,24.0,0,0,7.1417,,Mystic Academy,2,Water,1
+129,Sorcery School,female,,1,1,22.3583,Python Quarters,Eldertree Enclave,13,Fire,1
+131,Sorcery School,male,33.0,0,0,7.8958,,Eldertree Enclave,12,Earth,0
+132,Sorcery School,male,20.0,0,0,7.05,,Mystic Academy,6,Earth,0
+133,Sorcery School,female,47.0,1,0,14.5,,Mystic Academy,19,Water,0
+134,Witchcraft Institute,female,29.0,1,0,26.0,,Mystic Academy,6,Earth,1
+135,Witchcraft Institute,male,25.0,0,0,13.0,,Mystic Academy,9,Earth,0
+136,Witchcraft Institute,male,23.0,0,0,15.0458,,Eldertree Enclave,22,Air,0
+138,Magi Academy,male,37.0,1,0,53.1,Cottage Chamber,Mystic Academy,16,Earth,0
+139,Sorcery School,male,16.0,0,0,9.2167,,Mystic Academy,9,Earth,0
+140,Magi Academy,male,24.0,0,0,79.2,Mystical Chamber,Eldertree Enclave,1,Air,0
+141,Sorcery School,female,,0,2,15.2458,,Eldertree Enclave,23,Air,0
+142,Sorcery School,female,22.0,0,0,7.75,,Mystic Academy,16,Earth,1
+143,Sorcery School,female,24.0,1,0,15.85,,Mystic Academy,20,Fire,1
+144,Sorcery School,male,19.0,0,0,6.75,,Arcan Institute ,20,Earth,0
+145,Witchcraft Institute,male,18.0,0,0,11.5,,Mystic Academy,9,Air,0
+147,Sorcery School,male,27.0,0,0,7.7958,,Mystic Academy,2,Air,1
+148,Sorcery School,female,9.0,2,2,34.375,,Mystic Academy,20,Water,0
+149,Witchcraft Institute,male,36.5,0,2,26.0,Python Quarters,Mystic Academy,9,Earth,0
+150,Witchcraft Institute,male,42.0,0,0,13.0,,Mystic Academy,9,Air,0
+151,Witchcraft Institute,male,51.0,0,0,12.525,,Mystic Academy,5,Air,0
+152,Magi Academy,female,22.0,1,0,66.6,Cottage Chamber,Mystic Academy,24,Fire,1
+153,Sorcery School,male,55.5,0,0,8.05,,Mystic Academy,2,Air,0
+154,Sorcery School,male,40.5,0,2,14.5,,Mystic Academy,19,Earth,0
+156,Magi Academy,male,51.0,0,1,61.3792,,Eldertree Enclave,20,Earth,0
+157,Sorcery School,female,16.0,0,0,7.7333,,Arcan Institute ,20,Fire,1
+159,Sorcery School,male,,0,0,8.6625,,Mystic Academy,23,Fire,0
+160,Sorcery School,male,,8,2,69.55,,Mystic Academy,2,Fire,0
+161,Sorcery School,male,44.0,0,1,16.1,,Mystic Academy,9,Water,0
+162,Witchcraft Institute,female,40.0,0,0,15.75,,Mystic Academy,23,Water,1
+163,Sorcery School,male,26.0,0,0,7.775,,Mystic Academy,8,Earth,0
+164,Sorcery School,male,17.0,0,0,8.6625,,Mystic Academy,20,Fire,0
+165,Sorcery School,male,1.0,4,1,39.6875,,Mystic Academy,5,Fire,0
+166,Sorcery School,male,9.0,0,2,20.525,,Mystic Academy,15,Air,1
+168,Sorcery School,female,45.0,1,4,27.9,,Mystic Academy,2,Fire,0
+169,Magi Academy,male,,0,0,25.925,,Mystic Academy,2,Air,0
+172,Sorcery School,male,4.0,4,1,29.125,,Arcan Institute ,17,Fire,0
+173,Sorcery School,female,1.0,1,1,11.1333,,Mystic Academy,3,Water,1
+174,Sorcery School,male,21.0,0,0,7.925,,Mystic Academy,5,Air,0
+175,Magi Academy,male,56.0,0,0,30.6958,Tangerine Rooms,Eldertree Enclave,16,Air,0
+176,Sorcery School,male,18.0,1,1,7.8542,,Mystic Academy,9,Water,0
+177,Sorcery School,male,,3,1,25.4667,,Mystic Academy,4,Water,0
+178,Magi Academy,female,50.0,0,0,28.7125,Cottage Chamber,Eldertree Enclave,12,Earth,0
+179,Witchcraft Institute,male,30.0,0,0,13.0,,Mystic Academy,21,Air,0
+181,Sorcery School,female,,8,2,69.55,,Mystic Academy,17,Earth,0
+182,Witchcraft Institute,male,,0,0,15.05,,Eldertree Enclave,21,Earth,0
+184,Witchcraft Institute,male,1.0,2,1,39.0,Python Quarters,Mystic Academy,16,Water,1
+186,Magi Academy,male,,0,0,50.0,Tangerine Rooms,Mystic Academy,12,Air,0
+187,Sorcery School,female,,1,0,15.5,,Arcan Institute ,1,Water,1
+188,Magi Academy,male,45.0,0,0,26.55,,Mystic Academy,14,Air,1
+189,Sorcery School,male,40.0,1,1,15.5,,Arcan Institute ,3,Fire,0
+190,Sorcery School,male,36.0,0,0,7.8958,,Mystic Academy,15,Fire,0
+191,Witchcraft Institute,female,32.0,0,0,13.0,,Mystic Academy,11,Earth,1
+192,Witchcraft Institute,male,19.0,0,0,13.0,,Mystic Academy,18,Air,0
+194,Witchcraft Institute,male,3.0,1,1,26.0,Python Quarters,Mystic Academy,9,Earth,1
+195,Magi Academy,female,44.0,0,0,27.7208,Mystical Chamber,Eldertree Enclave,16,Air,1
+197,Sorcery School,male,,0,0,7.75,,Arcan Institute ,10,Water,0
+198,Sorcery School,male,42.0,0,1,8.4042,,Mystic Academy,1,Air,0
+199,Sorcery School,female,,0,0,7.75,,Arcan Institute ,10,Earth,1
+200,Witchcraft Institute,female,24.0,0,0,13.0,,Mystic Academy,19,Air,0
+201,Sorcery School,male,28.0,0,0,9.5,,Mystic Academy,6,Water,0
+203,Sorcery School,male,34.0,0,0,6.4958,,Mystic Academy,3,Earth,0
+204,Sorcery School,male,45.5,0,0,7.225,,Eldertree Enclave,11,Water,0
+206,Sorcery School,female,2.0,0,1,10.4625,Grand Chambers,Mystic Academy,19,Earth,0
+207,Sorcery School,male,32.0,1,0,15.85,,Mystic Academy,11,Air,0
+209,Sorcery School,female,16.0,0,0,7.75,,Arcan Institute ,8,Air,1
+211,Sorcery School,male,24.0,0,0,7.05,,Mystic Academy,14,Air,0
+212,Witchcraft Institute,female,35.0,0,0,21.0,,Mystic Academy,21,Earth,1
+213,Sorcery School,male,22.0,0,0,7.25,,Mystic Academy,19,Fire,0
+214,Witchcraft Institute,male,30.0,0,0,13.0,,Mystic Academy,4,Earth,0
+215,Sorcery School,male,,1,0,7.75,,Arcan Institute ,2,Fire,0
+216,Magi Academy,female,31.0,1,0,113.275,Dragon Room,Eldertree Enclave,4,Air,1
+217,Sorcery School,female,27.0,0,0,7.925,,Mystic Academy,14,Fire,1
+218,Witchcraft Institute,male,42.0,1,0,27.0,,Mystic Academy,18,Air,0
+219,Magi Academy,female,32.0,0,0,76.2917,Dragon Room,Eldertree Enclave,19,Air,1
+220,Witchcraft Institute,male,30.0,0,0,10.5,,Mystic Academy,23,Air,0
+221,Sorcery School,male,16.0,0,0,8.05,,Mystic Academy,24,Air,1
+222,Witchcraft Institute,male,27.0,0,0,13.0,,Mystic Academy,13,Fire,0
+224,Sorcery School,male,,0,0,7.8958,,Mystic Academy,9,Fire,0
+225,Magi Academy,male,38.0,1,0,90.0,Cottage Chamber,Mystic Academy,5,Earth,1
+226,Sorcery School,male,22.0,0,0,9.35,,Mystic Academy,14,Water,0
+227,Witchcraft Institute,male,19.0,0,0,10.5,,Mystic Academy,6,Fire,1
+228,Sorcery School,male,20.5,0,0,7.25,,Mystic Academy,8,Fire,0
+229,Witchcraft Institute,male,18.0,0,0,13.0,,Mystic Academy,15,Water,0
+230,Sorcery School,female,,3,1,25.4667,,Mystic Academy,15,Earth,0
+231,Magi Academy,female,35.0,1,0,83.475,Cottage Chamber,Mystic Academy,20,Water,1
+233,Witchcraft Institute,male,59.0,0,0,13.5,,Mystic Academy,23,Water,0
+234,Sorcery School,female,5.0,4,2,31.3875,,Mystic Academy,1,Fire,1
+235,Witchcraft Institute,male,24.0,0,0,10.5,,Mystic Academy,14,Air,0
+236,Sorcery School,female,,0,0,7.55,,Mystic Academy,12,Fire,0
+237,Witchcraft Institute,male,44.0,1,0,26.0,,Mystic Academy,8,Water,0
+238,Witchcraft Institute,female,8.0,0,2,26.25,,Mystic Academy,14,Water,1
+239,Witchcraft Institute,male,19.0,0,0,10.5,,Mystic Academy,1,Water,0
+240,Witchcraft Institute,male,33.0,0,0,12.275,,Mystic Academy,7,Fire,0
+241,Sorcery School,female,,1,0,14.4542,,Eldertree Enclave,7,Air,0
+242,Sorcery School,female,,1,0,15.5,,Arcan Institute ,19,Water,1
+243,Witchcraft Institute,male,29.0,0,0,10.5,,Mystic Academy,4,Fire,0
+245,Sorcery School,male,30.0,0,0,7.225,,Eldertree Enclave,22,Water,0
+246,Magi Academy,male,44.0,2,0,90.0,Cottage Chamber,Arcan Institute ,16,Fire,0
+247,Sorcery School,female,25.0,0,0,7.775,,Mystic Academy,17,Fire,0
+248,Witchcraft Institute,female,24.0,0,2,14.5,,Mystic Academy,17,Earth,1
+250,Witchcraft Institute,male,54.0,1,0,26.0,,Mystic Academy,17,Fire,0
+251,Sorcery School,male,,0,0,7.25,,Mystic Academy,17,Water,0
+252,Sorcery School,female,29.0,1,1,10.4625,Grand Chambers,Mystic Academy,21,Earth,0
+253,Magi Academy,male,62.0,0,0,26.55,Cottage Chamber,Mystic Academy,18,Air,0
+254,Sorcery School,male,30.0,1,0,16.1,,Mystic Academy,5,Fire,0
+255,Sorcery School,female,41.0,0,2,20.2125,,Mystic Academy,16,Fire,0
+256,Sorcery School,female,29.0,0,2,15.2458,,Eldertree Enclave,11,Earth,1
+257,Magi Academy,female,,0,0,79.2,,Eldertree Enclave,17,Fire,1
+258,Magi Academy,female,30.0,0,0,86.5,Mystical Chamber,Mystic Academy,22,Air,1
+259,Magi Academy,female,35.0,0,0,512.3292,,Eldertree Enclave,15,Air,1
+260,Witchcraft Institute,female,50.0,0,1,26.0,,Mystic Academy,22,Water,1
+261,Sorcery School,male,,0,0,7.75,,Arcan Institute ,20,Air,0
+262,Sorcery School,male,3.0,4,2,31.3875,,Mystic Academy,6,Fire,1
+263,Magi Academy,male,52.0,1,1,79.65,Mystical Chamber,Mystic Academy,2,Air,0
+264,Magi Academy,male,40.0,0,0,0.0,Mystical Chamber,Mystic Academy,2,Fire,0
+265,Sorcery School,female,,0,0,7.75,,Arcan Institute ,11,Earth,0
+266,Witchcraft Institute,male,36.0,0,0,10.5,,Mystic Academy,1,Earth,0
+267,Sorcery School,male,16.0,4,1,39.6875,,Mystic Academy,19,Earth,0
+268,Sorcery School,male,25.0,1,0,7.775,,Mystic Academy,4,Air,1
+271,Magi Academy,male,,0,0,31.0,,Mystic Academy,10,Fire,0
+272,Sorcery School,male,25.0,0,0,0.0,,Mystic Academy,2,Air,1
+273,Witchcraft Institute,female,41.0,0,1,19.5,,Mystic Academy,7,Fire,1
+274,Magi Academy,male,37.0,0,1,29.7,Cottage Chamber,Eldertree Enclave,5,Earth,0
+276,Magi Academy,female,63.0,1,0,77.9583,Dragon Room,Mystic Academy,12,Water,1
+277,Sorcery School,female,45.0,0,0,7.75,,Mystic Academy,13,Fire,0
+278,Witchcraft Institute,male,,0,0,0.0,,Mystic Academy,6,Water,0
+279,Sorcery School,male,7.0,4,1,29.125,,Arcan Institute ,23,Fire,0
+282,Sorcery School,male,28.0,0,0,7.8542,,Mystic Academy,23,Fire,0
+283,Sorcery School,male,16.0,0,0,9.5,,Mystic Academy,10,Water,0
+284,Sorcery School,male,19.0,0,0,8.05,,Mystic Academy,8,Earth,1
+285,Magi Academy,male,,0,0,26.0,Tangerine Rooms,Mystic Academy,23,Water,0
+286,Sorcery School,male,33.0,0,0,8.6625,,Eldertree Enclave,22,Air,0
+287,Sorcery School,male,30.0,0,0,9.5,,Mystic Academy,9,Fire,1
+288,Sorcery School,male,22.0,0,0,7.8958,,Mystic Academy,17,Air,0
+291,Magi Academy,female,26.0,0,0,78.85,,Mystic Academy,23,Water,1
+292,Magi Academy,female,19.0,1,0,91.0792,Mystical Chamber,Eldertree Enclave,12,Fire,1
+293,Witchcraft Institute,male,36.0,0,0,12.875,Dragon Room,Eldertree Enclave,13,Fire,0
+294,Sorcery School,female,24.0,0,0,8.85,,Mystic Academy,2,Water,0
+295,Sorcery School,male,24.0,0,0,7.8958,,Mystic Academy,12,Earth,0
+296,Magi Academy,male,,0,0,27.7208,,Eldertree Enclave,9,Water,0
+297,Sorcery School,male,23.5,0,0,7.2292,,Eldertree Enclave,17,Earth,0
+299,Magi Academy,male,,0,0,30.5,Cottage Chamber,Mystic Academy,21,Earth,1
+300,Magi Academy,female,50.0,0,1,247.5208,Mystical Chamber,Eldertree Enclave,21,Earth,1
+301,Sorcery School,female,,0,0,7.75,,Arcan Institute ,6,Earth,1
+302,Sorcery School,male,,2,0,23.25,,Arcan Institute ,17,Air,1
+305,Sorcery School,male,,0,0,8.05,,Mystic Academy,20,Water,0
+306,Magi Academy,male,0.92,1,2,151.55,Cottage Chamber,Mystic Academy,15,Air,1
+307,Magi Academy,female,,0,0,110.8833,,Eldertree Enclave,23,Earth,1
+308,Magi Academy,female,17.0,1,0,108.9,Cottage Chamber,Eldertree Enclave,5,Fire,1
+309,Witchcraft Institute,male,30.0,1,0,24.0,,Eldertree Enclave,2,Fire,0
+313,Witchcraft Institute,female,26.0,1,1,26.0,,Mystic Academy,11,Air,0
+315,Witchcraft Institute,male,43.0,1,1,26.25,,Mystic Academy,6,Earth,0
+316,Sorcery School,female,26.0,0,0,7.8542,,Mystic Academy,19,Water,1
+318,Witchcraft Institute,male,54.0,0,0,14.0,,Mystic Academy,14,Water,0
+320,Magi Academy,female,40.0,1,1,134.5,Mystical Chamber,Eldertree Enclave,11,Water,1
+321,Sorcery School,male,22.0,0,0,7.25,,Mystic Academy,23,Air,0
+322,Sorcery School,male,27.0,0,0,7.8958,,Mystic Academy,4,Air,0
+326,Magi Academy,female,36.0,0,0,135.6333,Cottage Chamber,Eldertree Enclave,3,Water,1
+327,Sorcery School,male,61.0,0,0,6.2375,,Mystic Academy,23,Water,0
+328,Witchcraft Institute,female,36.0,0,0,13.0,Dragon Room,Mystic Academy,14,Earth,1
+329,Sorcery School,female,31.0,1,1,20.525,,Mystic Academy,17,Air,1
+330,Magi Academy,female,16.0,0,1,57.9792,Mystical Chamber,Eldertree Enclave,15,Earth,1
+331,Sorcery School,female,,2,0,23.25,,Arcan Institute ,15,Fire,1
+332,Magi Academy,male,45.5,0,0,28.5,Cottage Chamber,Mystic Academy,12,Air,0
+333,Magi Academy,male,38.0,0,1,153.4625,Cottage Chamber,Mystic Academy,1,Fire,0
+334,Sorcery School,male,16.0,2,0,18.0,,Mystic Academy,22,Water,0
+336,Sorcery School,male,,0,0,7.8958,,Mystic Academy,15,Earth,0
+337,Magi Academy,male,29.0,1,0,66.6,Cottage Chamber,Mystic Academy,11,Earth,0
+339,Sorcery School,male,45.0,0,0,8.05,,Mystic Academy,15,Fire,1
+340,Magi Academy,male,45.0,0,0,35.5,Tangerine Rooms,Mystic Academy,21,Earth,0
+341,Witchcraft Institute,male,2.0,1,1,26.0,Python Quarters,Mystic Academy,9,Earth,1
+342,Magi Academy,female,24.0,3,2,263.0,Cottage Chamber,Mystic Academy,20,Air,1
+343,Witchcraft Institute,male,28.0,0,0,13.0,,Mystic Academy,23,Water,0
+345,Witchcraft Institute,male,36.0,0,0,13.0,,Mystic Academy,24,Earth,0
+347,Witchcraft Institute,female,40.0,0,0,13.0,,Mystic Academy,20,Fire,1
+348,Sorcery School,female,,1,0,16.1,,Mystic Academy,1,Air,1
+349,Sorcery School,male,3.0,1,1,15.9,,Mystic Academy,13,Earth,1
+350,Sorcery School,male,42.0,0,0,8.6625,,Mystic Academy,4,Water,0
+353,Sorcery School,male,15.0,1,1,7.2292,,Eldertree Enclave,8,Air,0
+354,Sorcery School,male,25.0,1,0,17.8,,Mystic Academy,22,Fire,0
+355,Sorcery School,male,,0,0,7.225,,Eldertree Enclave,4,Earth,0
+356,Sorcery School,male,28.0,0,0,9.5,,Mystic Academy,15,Fire,0
+357,Magi Academy,female,22.0,0,1,55.0,Mystical Chamber,Mystic Academy,7,Air,1
+358,Witchcraft Institute,female,38.0,0,0,13.0,,Mystic Academy,15,Earth,0
+359,Sorcery School,female,,0,0,7.8792,,Arcan Institute ,23,Fire,1
+360,Sorcery School,female,,0,0,7.8792,,Arcan Institute ,8,Fire,1
+361,Sorcery School,male,40.0,1,4,27.9,,Mystic Academy,20,Air,0
+362,Witchcraft Institute,male,29.0,1,0,27.7208,,Eldertree Enclave,10,Air,0
+365,Sorcery School,male,,1,0,15.5,,Arcan Institute ,8,Water,0
+367,Magi Academy,female,60.0,1,0,75.25,Dragon Room,Eldertree Enclave,17,Fire,1
+368,Sorcery School,female,,0,0,7.2292,,Eldertree Enclave,8,Water,1
+370,Magi Academy,female,24.0,0,0,69.3,Mystical Chamber,Eldertree Enclave,1,Earth,1
+372,Sorcery School,male,18.0,1,0,6.4958,,Mystic Academy,2,Earth,0
+375,Sorcery School,female,3.0,3,1,21.075,,Mystic Academy,17,Fire,0
+377,Sorcery School,female,22.0,0,0,7.25,,Mystic Academy,2,Water,1
+379,Sorcery School,male,20.0,0,0,4.0125,,Eldertree Enclave,16,Fire,0
+380,Sorcery School,male,19.0,0,0,7.775,,Mystic Academy,10,Earth,0
+381,Magi Academy,female,42.0,0,0,227.525,,Eldertree Enclave,21,Fire,1
+382,Sorcery School,female,1.0,0,2,15.7417,,Eldertree Enclave,18,Earth,1
+383,Sorcery School,male,32.0,0,0,7.925,,Mystic Academy,22,Earth,0
+384,Magi Academy,female,35.0,1,0,52.0,,Mystic Academy,14,Water,1
+385,Sorcery School,male,,0,0,7.8958,,Mystic Academy,21,Water,0
+386,Witchcraft Institute,male,18.0,0,0,73.5,,Mystic Academy,5,Air,0
+387,Sorcery School,male,1.0,5,2,46.9,,Mystic Academy,17,Water,0
+390,Witchcraft Institute,female,17.0,0,0,12.0,,Eldertree Enclave,6,Earth,1
+393,Sorcery School,male,28.0,2,0,7.925,,Mystic Academy,17,Earth,0
+394,Magi Academy,female,23.0,1,0,113.275,Dragon Room,Eldertree Enclave,23,Air,1
+395,Sorcery School,female,24.0,0,2,16.7,Grand Chambers,Mystic Academy,15,Fire,1
+396,Sorcery School,male,22.0,0,0,7.7958,,Mystic Academy,2,Water,0
+398,Witchcraft Institute,male,46.0,0,0,26.0,,Mystic Academy,1,Air,0
+399,Witchcraft Institute,male,23.0,0,0,10.5,,Mystic Academy,5,Air,0
+400,Witchcraft Institute,female,28.0,0,0,12.65,,Mystic Academy,10,Air,1
+401,Sorcery School,male,39.0,0,0,7.925,,Mystic Academy,1,Air,1
+402,Sorcery School,male,26.0,0,0,8.05,,Mystic Academy,9,Fire,0
+403,Sorcery School,female,21.0,1,0,9.825,,Mystic Academy,5,Water,0
+405,Sorcery School,female,20.0,0,0,8.6625,,Mystic Academy,8,Air,0
+406,Witchcraft Institute,male,34.0,1,0,21.0,,Mystic Academy,16,Air,0
+407,Sorcery School,male,51.0,0,0,7.75,,Mystic Academy,4,Fire,0
+408,Witchcraft Institute,male,3.0,1,1,18.75,,Mystic Academy,15,Earth,1
+410,Sorcery School,female,,3,1,25.4667,,Mystic Academy,21,Fire,0
+411,Sorcery School,male,,0,0,7.8958,,Mystic Academy,1,Water,0
+412,Sorcery School,male,,0,0,6.8583,,Arcan Institute ,21,Air,0
+413,Magi Academy,female,33.0,1,0,90.0,Cottage Chamber,Arcan Institute ,11,Air,1
+414,Witchcraft Institute,male,,0,0,0.0,,Mystic Academy,1,Earth,0
+415,Sorcery School,male,44.0,0,0,7.925,,Mystic Academy,23,Air,1
+417,Witchcraft Institute,female,34.0,1,1,32.5,,Mystic Academy,6,Air,1
+418,Witchcraft Institute,female,18.0,0,2,13.0,,Mystic Academy,14,Earth,1
+419,Witchcraft Institute,male,30.0,0,0,13.0,,Mystic Academy,17,Air,0
+420,Sorcery School,female,10.0,0,2,24.15,,Mystic Academy,7,Air,0
+421,Sorcery School,male,,0,0,7.8958,,Eldertree Enclave,5,Earth,0
+422,Sorcery School,male,21.0,0,0,7.7333,,Arcan Institute ,11,Earth,0
+423,Sorcery School,male,29.0,0,0,7.875,,Mystic Academy,7,Water,0
+424,Sorcery School,female,28.0,1,1,14.4,,Mystic Academy,9,Fire,0
+425,Sorcery School,male,18.0,1,1,20.2125,,Mystic Academy,18,Earth,0
+426,Sorcery School,male,,0,0,7.25,,Mystic Academy,23,Air,0
+427,Witchcraft Institute,female,28.0,1,0,26.0,,Mystic Academy,10,Earth,1
+428,Witchcraft Institute,female,19.0,0,0,26.0,,Mystic Academy,2,Earth,1
+429,Sorcery School,male,,0,0,7.75,,Arcan Institute ,2,Earth,0
+431,Magi Academy,male,28.0,0,0,26.55,Cottage Chamber,Mystic Academy,5,Water,1
+432,Sorcery School,female,,1,0,16.1,,Mystic Academy,4,Fire,1
+433,Witchcraft Institute,female,42.0,1,0,26.0,,Mystic Academy,16,Earth,1
+434,Sorcery School,male,17.0,0,0,7.125,,Mystic Academy,1,Air,0
+435,Magi Academy,male,50.0,1,0,55.9,Mystical Chamber,Mystic Academy,13,Water,0
+436,Magi Academy,female,14.0,1,2,120.0,Mystical Chamber,Mystic Academy,1,Water,1
+437,Sorcery School,female,21.0,2,2,34.375,,Mystic Academy,7,Fire,0
+438,Witchcraft Institute,female,24.0,2,3,18.75,,Mystic Academy,3,Water,1
+439,Magi Academy,male,64.0,1,4,263.0,Cottage Chamber,Mystic Academy,23,Fire,0
+440,Witchcraft Institute,male,31.0,0,0,10.5,,Mystic Academy,5,Fire,0
+441,Witchcraft Institute,female,45.0,1,1,26.25,,Mystic Academy,17,Fire,1
+442,Sorcery School,male,20.0,0,0,9.5,,Mystic Academy,3,Fire,0
+443,Sorcery School,male,25.0,1,0,7.775,,Mystic Academy,17,Water,0
+446,Magi Academy,male,4.0,0,2,81.8583,Tangerine Rooms,Mystic Academy,14,Water,1
+449,Sorcery School,female,5.0,2,1,19.2583,,Eldertree Enclave,7,Water,1
+450,Magi Academy,male,52.0,0,0,30.5,Cottage Chamber,Mystic Academy,17,Earth,1
+451,Witchcraft Institute,male,36.0,1,2,27.75,,Mystic Academy,5,Earth,0
+452,Sorcery School,male,,1,0,19.9667,,Mystic Academy,9,Air,0
+454,Magi Academy,male,49.0,1,0,89.1042,Cottage Chamber,Eldertree Enclave,21,Water,1
+455,Sorcery School,male,,0,0,8.05,,Mystic Academy,23,Earth,0
+459,Witchcraft Institute,female,50.0,0,0,10.5,,Mystic Academy,3,Air,1
+460,Sorcery School,male,,0,0,7.75,,Arcan Institute ,13,Fire,0
+462,Sorcery School,male,34.0,0,0,8.05,,Mystic Academy,1,Earth,0
+463,Magi Academy,male,47.0,0,0,38.5,Mystical Chamber,Mystic Academy,2,Air,0
+464,Witchcraft Institute,male,48.0,0,0,13.0,,Mystic Academy,1,Fire,0
+465,Sorcery School,male,,0,0,8.05,,Mystic Academy,3,Water,0
+466,Sorcery School,male,38.0,0,0,7.05,,Mystic Academy,14,Fire,0
+467,Witchcraft Institute,male,,0,0,0.0,,Mystic Academy,1,Fire,0
+469,Sorcery School,male,,0,0,7.725,,Arcan Institute ,19,Water,0
+470,Sorcery School,female,0.75,2,1,19.2583,,Eldertree Enclave,18,Air,1
+472,Sorcery School,male,38.0,0,0,8.6625,,Mystic Academy,1,Earth,0
+473,Witchcraft Institute,female,33.0,1,2,27.75,,Mystic Academy,15,Water,1
+474,Witchcraft Institute,female,23.0,0,0,13.7917,Dragon Room,Eldertree Enclave,11,Air,1
+475,Sorcery School,female,22.0,0,0,9.8375,,Mystic Academy,1,Earth,0
+476,Magi Academy,male,,0,0,52.0,Tangerine Rooms,Mystic Academy,8,Earth,0
+477,Witchcraft Institute,male,34.0,1,0,21.0,,Mystic Academy,4,Air,0
+478,Sorcery School,male,29.0,1,0,7.0458,,Mystic Academy,6,Air,0
+479,Sorcery School,male,22.0,0,0,7.5208,,Mystic Academy,9,Water,0
+480,Sorcery School,female,2.0,0,1,12.2875,,Mystic Academy,7,Water,1
+481,Sorcery School,male,9.0,5,2,46.9,,Mystic Academy,6,Water,0
+483,Sorcery School,male,50.0,0,0,8.05,,Mystic Academy,17,Fire,0
+484,Sorcery School,female,63.0,0,0,9.5875,,Mystic Academy,21,Air,1
+485,Magi Academy,male,25.0,1,0,91.0792,Mystical Chamber,Eldertree Enclave,18,Earth,1
+486,Sorcery School,female,,3,1,25.4667,,Mystic Academy,16,Water,0
+487,Magi Academy,female,35.0,1,0,90.0,Cottage Chamber,Mystic Academy,8,Earth,1
+488,Magi Academy,male,58.0,0,0,29.7,Mystical Chamber,Eldertree Enclave,15,Air,0
+490,Sorcery School,male,9.0,1,1,15.9,,Mystic Academy,14,Fire,1
+491,Sorcery School,male,,1,0,19.9667,,Mystic Academy,11,Earth,0
+492,Sorcery School,male,21.0,0,0,7.25,,Mystic Academy,16,Fire,0
+493,Magi Academy,male,55.0,0,0,30.5,Cottage Chamber,Mystic Academy,1,Water,0
+494,Magi Academy,male,71.0,0,0,49.5042,,Eldertree Enclave,17,Earth,0
+496,Sorcery School,male,,0,0,14.4583,,Eldertree Enclave,6,Fire,0
+497,Magi Academy,female,54.0,1,0,78.2667,Dragon Room,Eldertree Enclave,9,Air,1
+498,Sorcery School,male,,0,0,15.1,,Mystic Academy,18,Fire,0
+499,Magi Academy,female,25.0,1,2,151.55,Cottage Chamber,Mystic Academy,12,Earth,0
+500,Sorcery School,male,24.0,0,0,7.7958,,Mystic Academy,4,Fire,0
+501,Sorcery School,male,17.0,0,0,8.6625,,Mystic Academy,20,Earth,0
+503,Sorcery School,female,,0,0,7.6292,,Arcan Institute ,3,Fire,0
+504,Sorcery School,female,37.0,0,0,9.5875,,Mystic Academy,2,Air,0
+505,Magi Academy,female,16.0,0,0,86.5,Mystical Chamber,Mystic Academy,7,Earth,1
+506,Magi Academy,male,18.0,1,0,108.9,Cottage Chamber,Eldertree Enclave,9,Water,0
+508,Magi Academy,male,,0,0,26.55,,Mystic Academy,15,Fire,1
+509,Sorcery School,male,28.0,0,0,22.525,,Mystic Academy,5,Water,0
+510,Sorcery School,male,26.0,0,0,56.4958,,Mystic Academy,23,Earth,1
+512,Sorcery School,male,,0,0,8.05,,Mystic Academy,10,Earth,0
+513,Magi Academy,male,36.0,0,0,26.2875,Mystical Chamber,Mystic Academy,14,Fire,1
+514,Magi Academy,female,54.0,1,0,59.4,,Eldertree Enclave,14,Air,1
+515,Sorcery School,male,24.0,0,0,7.4958,,Mystic Academy,17,Water,0
+516,Magi Academy,male,47.0,0,0,34.0208,Dragon Room,Mystic Academy,2,Air,0
+517,Witchcraft Institute,female,34.0,0,0,10.5,Python Quarters,Mystic Academy,15,Water,1
+519,Witchcraft Institute,female,36.0,1,0,26.0,,Mystic Academy,12,Fire,1
+520,Sorcery School,male,32.0,0,0,7.8958,,Mystic Academy,3,Air,0
+521,Magi Academy,female,30.0,0,0,93.5,Mystical Chamber,Mystic Academy,19,Fire,1
+522,Sorcery School,male,22.0,0,0,7.8958,,Mystic Academy,2,Earth,0
+525,Sorcery School,male,,0,0,7.2292,,Eldertree Enclave,12,Earth,0
+526,Sorcery School,male,40.5,0,0,7.75,,Arcan Institute ,1,Fire,0
+527,Witchcraft Institute,female,50.0,0,0,10.5,,Mystic Academy,13,Water,1
+528,Magi Academy,male,,0,0,221.7792,Cottage Chamber,Mystic Academy,20,Earth,0
+529,Sorcery School,male,39.0,0,0,7.925,,Mystic Academy,22,Earth,0
+530,Witchcraft Institute,male,23.0,2,1,11.5,,Mystic Academy,20,Earth,0
+531,Witchcraft Institute,female,2.0,1,1,26.0,,Mystic Academy,23,Fire,1
+532,Sorcery School,male,,0,0,7.2292,,Eldertree Enclave,14,Air,0
+535,Sorcery School,female,30.0,0,0,8.6625,,Mystic Academy,24,Earth,0
+536,Witchcraft Institute,female,7.0,0,2,26.25,,Mystic Academy,24,Fire,1
+537,Magi Academy,male,45.0,0,0,26.55,Mystical Chamber,Mystic Academy,15,Air,0
+538,Magi Academy,female,30.0,0,0,106.425,,Eldertree Enclave,17,Fire,1
+539,Sorcery School,male,,0,0,14.5,,Mystic Academy,4,Water,0
+541,Magi Academy,female,36.0,0,2,71.0,Mystical Chamber,Mystic Academy,1,Water,1
+542,Sorcery School,female,9.0,4,2,31.275,,Mystic Academy,2,Water,0
+543,Sorcery School,female,11.0,4,2,31.275,,Mystic Academy,6,Air,0
+544,Witchcraft Institute,male,32.0,1,0,26.0,,Mystic Academy,17,Air,1
+545,Magi Academy,male,50.0,1,0,106.425,Cottage Chamber,Eldertree Enclave,5,Earth,0
+546,Magi Academy,male,64.0,0,0,26.0,,Mystic Academy,10,Fire,0
+547,Witchcraft Institute,female,19.0,1,0,26.0,,Mystic Academy,21,Fire,1
+548,Witchcraft Institute,male,,0,0,13.8625,,Eldertree Enclave,8,Air,1
+552,Witchcraft Institute,male,27.0,0,0,26.0,,Mystic Academy,9,Water,0
+553,Sorcery School,male,,0,0,7.8292,,Arcan Institute ,10,Fire,0
+554,Sorcery School,male,22.0,0,0,7.225,,Eldertree Enclave,4,Air,1
+556,Magi Academy,male,62.0,0,0,26.55,,Mystic Academy,9,Water,0
+557,Magi Academy,female,48.0,1,0,39.6,Tangerine Rooms,Eldertree Enclave,5,Water,1
+558,Magi Academy,male,,0,0,227.525,,Eldertree Enclave,6,Earth,0
+561,Sorcery School,male,,0,0,7.75,,Arcan Institute ,16,Water,0
+563,Witchcraft Institute,male,28.0,0,0,13.5,,Mystic Academy,22,Air,0
+564,Sorcery School,male,,0,0,8.05,,Mystic Academy,6,Fire,0
+565,Sorcery School,female,,0,0,8.05,,Mystic Academy,13,Fire,0
+567,Sorcery School,male,19.0,0,0,7.8958,,Mystic Academy,6,Earth,0
+568,Sorcery School,female,29.0,0,4,21.075,,Mystic Academy,16,Water,0
+569,Sorcery School,male,,0,0,7.2292,,Eldertree Enclave,23,Earth,0
+570,Sorcery School,male,32.0,0,0,7.8542,,Mystic Academy,2,Fire,1
+572,Magi Academy,female,53.0,2,0,51.4792,Cottage Chamber,Mystic Academy,12,Earth,1
+573,Magi Academy,male,36.0,0,0,26.3875,Mystical Chamber,Mystic Academy,21,Fire,1
+574,Sorcery School,female,,0,0,7.75,,Arcan Institute ,19,Fire,1
+575,Sorcery School,male,16.0,0,0,8.05,,Mystic Academy,19,Fire,0
+576,Sorcery School,male,19.0,0,0,14.5,,Mystic Academy,21,Air,0
+577,Witchcraft Institute,female,34.0,0,0,13.0,,Mystic Academy,16,Fire,1
+578,Magi Academy,female,39.0,1,0,55.9,Mystical Chamber,Mystic Academy,11,Air,1
+579,Sorcery School,female,,1,0,14.4583,,Eldertree Enclave,19,Earth,0
+580,Sorcery School,male,32.0,0,0,7.925,,Mystic Academy,6,Water,1
+581,Witchcraft Institute,female,25.0,1,1,30.0,,Mystic Academy,14,Water,1
+582,Magi Academy,female,39.0,1,1,110.8833,Cottage Chamber,Eldertree Enclave,20,Earth,1
+583,Witchcraft Institute,male,54.0,0,0,26.0,,Mystic Academy,22,Air,0
+584,Magi Academy,male,36.0,0,0,40.125,Tangerine Rooms,Eldertree Enclave,22,Water,0
+585,Sorcery School,male,,0,0,8.7125,,Eldertree Enclave,19,Fire,0
+586,Magi Academy,female,18.0,0,2,79.65,Mystical Chamber,Mystic Academy,7,Water,1
+590,Sorcery School,male,,0,0,8.05,,Mystic Academy,19,Water,0
+591,Sorcery School,male,35.0,0,0,7.125,,Mystic Academy,22,Water,0
+592,Magi Academy,female,52.0,1,0,78.2667,Dragon Room,Eldertree Enclave,15,Fire,1
+593,Sorcery School,male,47.0,0,0,7.25,,Mystic Academy,3,Air,0
+594,Sorcery School,female,,0,2,7.75,,Arcan Institute ,22,Earth,0
+595,Witchcraft Institute,male,37.0,1,0,26.0,,Mystic Academy,21,Earth,0
+596,Sorcery School,male,36.0,1,1,24.15,,Mystic Academy,19,Water,0
+597,Witchcraft Institute,female,,0,0,33.0,,Mystic Academy,5,Water,1
+599,Sorcery School,male,,0,0,7.225,,Eldertree Enclave,21,Air,0
+600,Magi Academy,male,49.0,1,0,56.9292,Tangerine Rooms,Eldertree Enclave,19,Fire,1
+601,Witchcraft Institute,female,24.0,2,1,27.0,,Mystic Academy,19,Fire,1
+602,Sorcery School,male,,0,0,7.8958,,Mystic Academy,3,Air,0
+603,Magi Academy,male,,0,0,42.4,,Mystic Academy,9,Fire,0
+604,Sorcery School,male,44.0,0,0,8.05,,Mystic Academy,19,Water,0
+605,Magi Academy,male,35.0,0,0,26.55,,Eldertree Enclave,6,Water,1
+606,Sorcery School,male,36.0,1,0,15.55,,Mystic Academy,24,Water,0
+607,Sorcery School,male,30.0,0,0,7.8958,,Mystic Academy,5,Water,0
+608,Magi Academy,male,27.0,0,0,30.5,,Mystic Academy,9,Earth,1
+609,Witchcraft Institute,female,22.0,1,2,41.5792,,Eldertree Enclave,17,Air,1
+610,Magi Academy,female,40.0,0,0,153.4625,Cottage Chamber,Mystic Academy,1,Earth,1
+611,Sorcery School,female,39.0,1,5,31.275,,Mystic Academy,16,Water,0
+612,Sorcery School,male,,0,0,7.05,,Mystic Academy,9,Air,0
+613,Sorcery School,female,,1,0,15.5,,Arcan Institute ,14,Water,1
+614,Sorcery School,male,,0,0,7.75,,Arcan Institute ,10,Air,0
+615,Sorcery School,male,35.0,0,0,8.05,,Mystic Academy,9,Fire,0
+616,Witchcraft Institute,female,24.0,1,2,65.0,,Mystic Academy,21,Water,1
+617,Sorcery School,male,34.0,1,1,14.4,,Mystic Academy,14,Fire,0
+618,Sorcery School,female,26.0,1,0,16.1,,Mystic Academy,15,Earth,0
+620,Witchcraft Institute,male,26.0,0,0,10.5,,Mystic Academy,6,Air,0
+621,Sorcery School,male,27.0,1,0,14.4542,,Eldertree Enclave,15,Fire,0
+622,Magi Academy,male,42.0,1,0,52.5542,Dragon Room,Mystic Academy,13,Earth,1
+624,Sorcery School,male,21.0,0,0,7.8542,,Mystic Academy,13,Water,0
+625,Sorcery School,male,21.0,0,0,16.1,,Mystic Academy,13,Earth,0
+626,Magi Academy,male,61.0,0,0,32.3208,Dragon Room,Mystic Academy,3,Earth,0
+627,Witchcraft Institute,male,57.0,0,0,12.35,,Arcan Institute ,14,Fire,0
+628,Magi Academy,female,21.0,0,0,77.9583,Dragon Room,Mystic Academy,19,Air,1
+630,Sorcery School,male,,0,0,7.7333,,Arcan Institute ,16,Water,0
+631,Magi Academy,male,80.0,0,0,30.0,Tangerine Rooms,Mystic Academy,16,Air,1
+632,Sorcery School,male,51.0,0,0,7.0542,,Mystic Academy,17,Earth,0
+633,Magi Academy,male,32.0,0,0,30.5,Mystical Chamber,Eldertree Enclave,11,Earth,1
+634,Magi Academy,male,,0,0,0.0,,Mystic Academy,24,Fire,0
+635,Sorcery School,female,9.0,3,2,27.9,,Mystic Academy,9,Air,0
+636,Witchcraft Institute,female,28.0,0,0,13.0,,Mystic Academy,13,Earth,1
+637,Sorcery School,male,32.0,0,0,7.925,,Mystic Academy,2,Earth,0
+638,Witchcraft Institute,male,31.0,1,1,26.25,,Mystic Academy,19,Fire,0
+640,Sorcery School,male,,1,0,16.1,,Mystic Academy,18,Earth,0
+641,Sorcery School,male,20.0,0,0,7.8542,,Mystic Academy,3,Earth,0
+643,Sorcery School,female,2.0,3,2,27.9,,Mystic Academy,4,Water,0
+644,Sorcery School,male,,0,0,56.4958,,Mystic Academy,7,Air,1
+645,Sorcery School,female,0.75,2,1,19.2583,,Eldertree Enclave,16,Air,1
+647,Sorcery School,male,19.0,0,0,7.8958,,Mystic Academy,11,Fire,0
+648,Magi Academy,male,56.0,0,0,35.5,Tangerine Rooms,Eldertree Enclave,12,Earth,1
+649,Sorcery School,male,,0,0,7.55,,Mystic Academy,9,Earth,0
+650,Sorcery School,female,23.0,0,0,7.55,,Mystic Academy,11,Water,1
+651,Sorcery School,male,,0,0,7.8958,,Mystic Academy,18,Fire,0
+654,Sorcery School,female,,0,0,7.8292,,Arcan Institute ,20,Air,1
+655,Sorcery School,female,18.0,0,0,6.75,,Arcan Institute ,12,Air,0
+656,Witchcraft Institute,male,24.0,2,0,73.5,,Mystic Academy,4,Earth,0
+657,Sorcery School,male,,0,0,7.8958,,Mystic Academy,24,Earth,0
+658,Sorcery School,female,32.0,1,1,15.5,,Arcan Institute ,9,Earth,0
+659,Witchcraft Institute,male,23.0,0,0,13.0,,Mystic Academy,7,Air,0
+660,Magi Academy,male,58.0,0,2,113.275,Dragon Room,Eldertree Enclave,21,Air,0
+661,Magi Academy,male,50.0,2,0,133.65,,Mystic Academy,9,Air,1
+662,Sorcery School,male,40.0,0,0,7.225,,Eldertree Enclave,19,Fire,0
+663,Magi Academy,male,47.0,0,0,25.5875,Mystical Chamber,Mystic Academy,20,Fire,0
+664,Sorcery School,male,36.0,0,0,7.4958,,Mystic Academy,16,Air,0
+665,Sorcery School,male,20.0,1,0,7.925,,Mystic Academy,16,Earth,1
+666,Witchcraft Institute,male,32.0,2,0,73.5,,Mystic Academy,15,Earth,0
+667,Witchcraft Institute,male,25.0,0,0,13.0,,Mystic Academy,4,Earth,0
+668,Sorcery School,male,,0,0,7.775,,Mystic Academy,8,Water,0
+670,Magi Academy,female,,1,0,52.0,Cottage Chamber,Mystic Academy,19,Water,1
+671,Witchcraft Institute,female,40.0,1,1,39.0,,Mystic Academy,17,Fire,1
+673,Witchcraft Institute,male,70.0,0,0,10.5,,Mystic Academy,22,Air,0
+674,Witchcraft Institute,male,31.0,0,0,13.0,,Mystic Academy,19,Earth,1
+675,Witchcraft Institute,male,,0,0,0.0,,Mystic Academy,19,Earth,0
+676,Sorcery School,male,18.0,0,0,7.775,,Mystic Academy,11,Air,0
+677,Sorcery School,male,24.5,0,0,8.05,,Mystic Academy,22,Earth,0
+678,Sorcery School,female,18.0,0,0,9.8417,,Mystic Academy,15,Earth,1
+679,Sorcery School,female,43.0,1,6,46.9,,Mystic Academy,12,Earth,0
+680,Magi Academy,male,36.0,0,1,512.3292,Mystical Chamber,Eldertree Enclave,6,Earth,1
+681,Sorcery School,female,,0,0,8.1375,,Arcan Institute ,23,Air,0
+682,Magi Academy,male,27.0,0,0,76.7292,Dragon Room,Eldertree Enclave,24,Air,1
+683,Sorcery School,male,20.0,0,0,9.225,,Mystic Academy,13,Air,0
+684,Sorcery School,male,14.0,5,2,46.9,,Mystic Academy,20,Earth,0
+685,Witchcraft Institute,male,60.0,1,1,39.0,,Mystic Academy,24,Water,0
+686,Witchcraft Institute,male,25.0,1,2,41.5792,,Eldertree Enclave,21,Earth,0
+687,Sorcery School,male,14.0,4,1,39.6875,,Mystic Academy,21,Fire,0
+688,Sorcery School,male,19.0,0,0,10.1708,,Mystic Academy,3,Fire,0
+689,Sorcery School,male,18.0,0,0,7.7958,,Mystic Academy,14,Earth,0
+690,Magi Academy,female,15.0,0,1,211.3375,Mystical Chamber,Mystic Academy,19,Water,1
+691,Magi Academy,male,31.0,1,0,57.0,Mystical Chamber,Mystic Academy,21,Fire,1
+692,Sorcery School,female,4.0,0,1,13.4167,,Eldertree Enclave,24,Fire,1
+693,Sorcery School,male,,0,0,56.4958,,Mystic Academy,1,Water,1
+694,Sorcery School,male,25.0,0,0,7.225,,Eldertree Enclave,18,Air,0
+695,Magi Academy,male,60.0,0,0,26.55,,Mystic Academy,5,Water,0
+696,Witchcraft Institute,male,52.0,0,0,13.5,,Mystic Academy,13,Fire,0
+697,Sorcery School,male,44.0,0,0,8.05,,Mystic Academy,1,Earth,0
+698,Sorcery School,female,,0,0,7.7333,,Arcan Institute ,19,Water,1
+699,Magi Academy,male,49.0,1,1,110.8833,Cottage Chamber,Eldertree Enclave,22,Earth,0
+700,Sorcery School,male,42.0,0,0,7.65,Python Quarters,Mystic Academy,6,Water,0
+702,Magi Academy,male,35.0,0,0,26.2875,Mystical Chamber,Mystic Academy,16,Earth,1
+703,Sorcery School,female,18.0,0,1,14.4542,,Eldertree Enclave,19,Water,0
+704,Sorcery School,male,25.0,0,0,7.7417,,Arcan Institute ,9,Water,0
+705,Sorcery School,male,26.0,1,0,7.8542,,Mystic Academy,14,Fire,0
+706,Witchcraft Institute,male,39.0,0,0,26.0,,Mystic Academy,20,Fire,0
+707,Witchcraft Institute,female,45.0,0,0,13.5,,Mystic Academy,9,Water,1
+708,Magi Academy,male,42.0,0,0,26.2875,Mystical Chamber,Mystic Academy,5,Air,1
+709,Magi Academy,female,22.0,0,0,151.55,,Mystic Academy,5,Air,1
+711,Magi Academy,female,24.0,0,0,49.5042,Cottage Chamber,Eldertree Enclave,23,Air,1
+712,Magi Academy,male,,0,0,26.55,Cottage Chamber,Mystic Academy,13,Fire,0
+713,Magi Academy,male,48.0,1,0,52.0,Cottage Chamber,Mystic Academy,2,Water,1
+714,Sorcery School,male,29.0,0,0,9.4833,,Mystic Academy,17,Earth,0
+715,Witchcraft Institute,male,52.0,0,0,13.0,,Mystic Academy,18,Fire,0
+717,Magi Academy,female,38.0,0,0,227.525,Cottage Chamber,Eldertree Enclave,20,Air,1
+718,Witchcraft Institute,female,27.0,0,0,10.5,Mystical Chamber,Mystic Academy,15,Air,1
+719,Sorcery School,male,,0,0,15.5,,Arcan Institute ,4,Air,0
+722,Sorcery School,male,17.0,1,0,7.0542,,Mystic Academy,20,Water,0
+723,Witchcraft Institute,male,34.0,0,0,13.0,,Mystic Academy,12,Earth,0
+724,Witchcraft Institute,male,50.0,0,0,13.0,,Mystic Academy,13,Water,0
+726,Sorcery School,male,20.0,0,0,8.6625,,Mystic Academy,16,Fire,0
+727,Witchcraft Institute,female,30.0,3,0,21.0,,Mystic Academy,10,Water,1
+729,Witchcraft Institute,male,25.0,1,0,26.0,,Mystic Academy,9,Earth,0
+730,Sorcery School,female,25.0,1,0,7.925,,Mystic Academy,7,Water,0
+731,Magi Academy,female,29.0,0,0,211.3375,Mystical Chamber,Mystic Academy,3,Water,1
+732,Sorcery School,male,11.0,0,0,18.7875,,Eldertree Enclave,19,Water,0
+733,Witchcraft Institute,male,,0,0,0.0,,Mystic Academy,10,Air,0
+734,Witchcraft Institute,male,23.0,0,0,13.0,,Mystic Academy,24,Air,0
+735,Witchcraft Institute,male,23.0,0,0,13.0,,Mystic Academy,10,Earth,0
+738,Magi Academy,male,35.0,0,0,512.3292,Mystical Chamber,Eldertree Enclave,15,Water,1
+740,Sorcery School,male,,0,0,7.8958,,Mystic Academy,20,Water,0
+741,Magi Academy,male,,0,0,30.0,Dragon Room,Mystic Academy,3,Earth,1
+742,Magi Academy,male,36.0,1,0,78.85,Cottage Chamber,Mystic Academy,1,Air,0
+743,Magi Academy,female,21.0,2,2,262.375,Mystical Chamber,Eldertree Enclave,13,Fire,1
+744,Sorcery School,male,24.0,1,0,16.1,,Mystic Academy,7,Fire,0
+745,Sorcery School,male,31.0,0,0,7.925,,Mystic Academy,16,Water,1
+746,Magi Academy,male,70.0,1,1,71.0,Mystical Chamber,Mystic Academy,16,Air,0
+747,Sorcery School,male,16.0,1,1,20.25,,Mystic Academy,4,Air,0
+750,Sorcery School,male,31.0,0,0,7.75,,Arcan Institute ,5,Fire,0
+751,Witchcraft Institute,female,4.0,1,1,23.0,,Mystic Academy,23,Water,1
+753,Sorcery School,male,33.0,0,0,9.5,,Mystic Academy,20,Earth,0
+755,Witchcraft Institute,female,48.0,1,2,65.0,,Mystic Academy,23,Water,1
+756,Witchcraft Institute,male,0.67,1,1,14.5,,Mystic Academy,22,Fire,1
+757,Sorcery School,male,28.0,0,0,7.7958,,Mystic Academy,16,Air,0
+758,Witchcraft Institute,male,18.0,0,0,11.5,,Mystic Academy,14,Earth,0
+759,Sorcery School,male,34.0,0,0,8.05,,Mystic Academy,20,Air,0
+761,Sorcery School,male,,0,0,14.5,,Mystic Academy,3,Earth,0
+762,Sorcery School,male,41.0,0,0,7.125,,Mystic Academy,16,Earth,0
+763,Sorcery School,male,20.0,0,0,7.2292,,Eldertree Enclave,9,Water,1
+765,Sorcery School,male,16.0,0,0,7.775,,Mystic Academy,6,Fire,0
+766,Magi Academy,female,51.0,1,0,77.9583,Dragon Room,Mystic Academy,19,Water,1
+767,Magi Academy,male,,0,0,39.6,,Eldertree Enclave,20,Fire,0
+768,Sorcery School,female,30.5,0,0,7.75,,Arcan Institute ,6,Fire,0
+769,Sorcery School,male,,1,0,24.15,,Arcan Institute ,21,Earth,0
+770,Sorcery School,male,32.0,0,0,8.3625,,Mystic Academy,19,Earth,0
+771,Sorcery School,male,24.0,0,0,9.5,,Mystic Academy,20,Earth,0
+773,Witchcraft Institute,female,57.0,0,0,10.5,Mystical Chamber,Mystic Academy,18,Fire,0
+774,Sorcery School,male,,0,0,7.225,,Eldertree Enclave,21,Fire,0
+775,Witchcraft Institute,female,54.0,1,3,23.0,,Mystic Academy,9,Water,1
+777,Sorcery School,male,,0,0,7.75,Python Quarters,Arcan Institute ,17,Air,0
+778,Sorcery School,female,5.0,0,0,12.475,,Mystic Academy,19,Earth,1
+779,Sorcery School,male,,0,0,7.7375,,Arcan Institute ,12,Fire,0
+780,Magi Academy,female,43.0,0,1,211.3375,Mystical Chamber,Mystic Academy,8,Water,1
+781,Sorcery School,female,13.0,0,0,7.2292,,Eldertree Enclave,15,Air,1
+783,Magi Academy,male,29.0,0,0,30.0,Dragon Room,Mystic Academy,19,Air,0
+784,Sorcery School,male,,1,2,23.45,,Mystic Academy,1,Air,0
+785,Sorcery School,male,25.0,0,0,7.05,,Mystic Academy,21,Water,0
+786,Sorcery School,male,25.0,0,0,7.25,,Mystic Academy,23,Water,0
+787,Sorcery School,female,18.0,0,0,7.4958,,Mystic Academy,11,Air,1
+788,Sorcery School,male,8.0,4,1,29.125,,Arcan Institute ,12,Earth,0
+791,Sorcery School,male,,0,0,7.75,,Arcan Institute ,23,Air,0
+792,Witchcraft Institute,male,16.0,0,0,26.0,,Mystic Academy,11,Fire,0
+793,Sorcery School,female,,8,2,69.55,,Mystic Academy,2,Air,0
+794,Magi Academy,male,,0,0,30.6958,,Eldertree Enclave,20,Air,0
+796,Witchcraft Institute,male,39.0,0,0,13.0,,Mystic Academy,19,Water,0
+797,Magi Academy,female,49.0,0,0,25.9292,Dragon Room,Mystic Academy,9,Air,1
+798,Sorcery School,female,31.0,0,0,8.6833,,Mystic Academy,13,Air,1
+799,Sorcery School,male,30.0,0,0,7.2292,,Eldertree Enclave,23,Air,0
+800,Sorcery School,female,30.0,1,1,24.15,,Mystic Academy,24,Water,0
+801,Witchcraft Institute,male,34.0,0,0,13.0,,Mystic Academy,13,Fire,0
+803,Magi Academy,male,11.0,1,2,120.0,Mystical Chamber,Mystic Academy,10,Air,1
+804,Sorcery School,male,0.42,0,1,8.5167,,Eldertree Enclave,18,Earth,1
+805,Sorcery School,male,27.0,0,0,6.975,,Mystic Academy,1,Earth,1
+806,Sorcery School,male,31.0,0,0,7.775,,Mystic Academy,16,Fire,0
+807,Magi Academy,male,39.0,0,0,0.0,Tangerine Rooms,Mystic Academy,11,Earth,0
+808,Sorcery School,female,18.0,0,0,7.775,,Mystic Academy,15,Air,0
+809,Witchcraft Institute,male,39.0,0,0,13.0,,Mystic Academy,8,Air,0
+810,Magi Academy,female,33.0,1,0,53.1,Mystical Chamber,Mystic Academy,16,Water,1
+811,Sorcery School,male,26.0,0,0,7.8875,,Mystic Academy,10,Water,0
+812,Sorcery School,male,39.0,0,0,24.15,,Mystic Academy,1,Water,0
+813,Witchcraft Institute,male,35.0,0,0,10.5,,Mystic Academy,22,Fire,0
+814,Sorcery School,female,6.0,4,2,31.275,,Mystic Academy,6,Fire,0
+815,Sorcery School,male,30.5,0,0,8.05,,Mystic Academy,1,Water,0
+816,Magi Academy,male,,0,0,0.0,Mystical Chamber,Mystic Academy,19,Fire,0
+818,Witchcraft Institute,male,31.0,1,1,37.0042,,Eldertree Enclave,23,Water,0
+819,Sorcery School,male,43.0,0,0,6.45,,Mystic Academy,14,Earth,0
+821,Magi Academy,female,52.0,1,1,93.5,Mystical Chamber,Mystic Academy,8,Water,1
+822,Sorcery School,male,27.0,0,0,8.6625,,Mystic Academy,1,Fire,1
+823,Magi Academy,male,38.0,0,0,0.0,,Mystic Academy,8,Earth,0
+824,Sorcery School,female,27.0,0,1,12.475,Mystical Chamber,Mystic Academy,4,Earth,1
+826,Sorcery School,male,,0,0,6.95,,Arcan Institute ,14,Fire,0
+827,Sorcery School,male,,0,0,56.4958,,Mystic Academy,11,Fire,0
+831,Sorcery School,female,15.0,1,0,14.4542,,Eldertree Enclave,23,Earth,1
+832,Witchcraft Institute,male,0.83,1,1,18.75,,Mystic Academy,14,Air,1
+833,Sorcery School,male,,0,0,7.2292,,Eldertree Enclave,23,Fire,0
+834,Sorcery School,male,23.0,0,0,7.8542,,Mystic Academy,1,Fire,0
+835,Sorcery School,male,18.0,0,0,8.3,,Mystic Academy,6,Air,0
+837,Sorcery School,male,21.0,0,0,8.6625,,Mystic Academy,21,Water,0
+838,Sorcery School,male,,0,0,8.05,,Mystic Academy,17,Air,0
+839,Sorcery School,male,32.0,0,0,56.4958,,Mystic Academy,21,Fire,1
+840,Magi Academy,male,,0,0,29.7,Cottage Chamber,Eldertree Enclave,6,Water,1
+841,Sorcery School,male,20.0,0,0,7.925,,Mystic Academy,11,Fire,0
+843,Magi Academy,female,30.0,0,0,31.0,,Eldertree Enclave,4,Air,1
+845,Sorcery School,male,17.0,0,0,8.6625,,Mystic Academy,13,Air,0
+846,Sorcery School,male,42.0,0,0,7.55,,Mystic Academy,16,Air,0
+848,Sorcery School,male,35.0,0,0,7.8958,,Eldertree Enclave,6,Water,0
+849,Witchcraft Institute,male,28.0,0,1,33.0,,Mystic Academy,24,Air,0
+850,Magi Academy,female,,1,0,89.1042,Cottage Chamber,Eldertree Enclave,18,Water,1
+852,Sorcery School,male,74.0,0,0,7.775,,Mystic Academy,20,Fire,0
+853,Sorcery School,female,9.0,1,1,15.2458,,Eldertree Enclave,4,Fire,0
+854,Magi Academy,female,16.0,0,1,39.4,Dragon Room,Mystic Academy,23,Earth,1
+855,Witchcraft Institute,female,44.0,1,0,26.0,,Mystic Academy,23,Water,0
+857,Magi Academy,female,45.0,1,1,164.8667,,Mystic Academy,6,Water,1
+858,Magi Academy,male,51.0,0,0,26.55,Mystical Chamber,Mystic Academy,13,Fire,1
+859,Sorcery School,female,24.0,0,3,19.2583,,Eldertree Enclave,18,Fire,1
+860,Sorcery School,male,,0,0,7.2292,,Eldertree Enclave,22,Air,0
+861,Sorcery School,male,41.0,2,0,14.1083,,Mystic Academy,16,Earth,0
+862,Witchcraft Institute,male,21.0,1,0,11.5,,Mystic Academy,8,Air,0
+863,Magi Academy,female,48.0,0,0,25.9292,Dragon Room,Mystic Academy,16,Fire,1
+864,Sorcery School,female,,8,2,69.55,,Mystic Academy,18,Water,0
+865,Witchcraft Institute,male,24.0,0,0,13.0,,Mystic Academy,22,Air,0
+866,Witchcraft Institute,female,42.0,0,0,13.0,,Mystic Academy,12,Water,1
+868,Magi Academy,male,31.0,0,0,50.4958,Tangerine Rooms,Mystic Academy,18,Air,0
+869,Sorcery School,male,,0,0,9.5,,Mystic Academy,8,Fire,0
+872,Magi Academy,female,47.0,1,1,52.5542,Dragon Room,Mystic Academy,16,Air,1
+873,Magi Academy,male,33.0,0,0,5.0,Mystical Chamber,Mystic Academy,6,Water,0
+875,Witchcraft Institute,female,28.0,1,0,24.0,,Eldertree Enclave,16,Fire,1
+876,Sorcery School,female,15.0,0,0,7.225,,Eldertree Enclave,7,Water,1
+877,Sorcery School,male,20.0,0,0,9.8458,,Mystic Academy,13,Fire,0
+878,Sorcery School,male,19.0,0,0,7.8958,,Mystic Academy,18,Earth,0
+880,Magi Academy,female,56.0,0,1,83.1583,Cottage Chamber,Eldertree Enclave,20,Earth,1
+881,Witchcraft Institute,female,25.0,0,1,26.0,,Mystic Academy,17,Earth,1
+883,Sorcery School,female,22.0,0,0,10.5167,,Mystic Academy,17,Earth,0
+884,Witchcraft Institute,male,28.0,0,0,10.5,,Mystic Academy,9,Water,0
+887,Witchcraft Institute,male,27.0,0,0,13.0,,Mystic Academy,8,Water,0
+888,Magi Academy,female,19.0,0,0,30.0,Mystical Chamber,Mystic Academy,2,Earth,1
+889,Sorcery School,female,,1,2,23.45,,Mystic Academy,23,Fire,0
