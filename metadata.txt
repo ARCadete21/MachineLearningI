@@ -1,0 +1,14 @@
+METADATA
+
+● Student ID: Unique identifier
+● Program: The program to which the student is applying, the admission process is the same for all the programs
+● Student Gender: Gender of the student
+● Experience Level: Experience level of the students, indicating their skill and knowledge within the wizardry school
+● Student Siblings: Number of siblings
+● Student Family: Number of family members attending the same wizardry school
+● Financial Background: Financial status or wealth of the student's family
+● School Dormitory: Type of dormitory accommodation in the wizardry school the student is applying
+● School of Origin: School of origin for the aspiring students
+● Student Social Influence: Number between 1-25 representing the student's popularity or social influence within the school, based on factors like the number of friends and social activities
+● Study Element: Student's favorite element
+● Admitted in School: Outcome variable worth 1 if the student was admitted to the school
